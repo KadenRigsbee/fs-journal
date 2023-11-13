@@ -4,5 +4,6 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 ## Prompts
 - What went well this week?
 - What did you learn that was a shock or surprise?
+    crocs have been up to some weird shenanigans
 - What are you struggling with?
 - What would you count as a victory?
