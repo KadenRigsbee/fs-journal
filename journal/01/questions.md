@@ -1,18 +1,18 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE | Git helps manage a program, allowing multiple developers to utilize it without issue.
+    > Git helps manage a program, allowing multiple developers to utilize it without issue.
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > creates a new directory. "Trailblazes"
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > Pseudo-Class is a common Selector. the most used example i've seen is ':hover' so i assume i'll be using that one a lot.
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > specificity determines which out of multiple commands will take priority and actually be executed.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > it'll actually brute force its way to top priority and will overwrite other input commands. using multiple of these sounds like your asking for errors.
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,10 +22,10 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > Selector, Property, Value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > users are more likely to have postive association with your project if the design is 'palatable'. in addition, you can subtly guide users to view certain things, or understand priciples of your project through use of color and weight.
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
