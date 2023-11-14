@@ -25,13 +25,13 @@
     > Selector, Property, Value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > users are more likely to have postive association with your project if the design is 'palatable'. in addition, you can subtly guide users to view certain things, or understand priciples of your project through use of color and weight.
+    > users are more likely to have positive association with your project if the design is 'palatable'. in addition, you can subtly guide users to view certain things, or understand principles of your project through use of color and weight.
 
 08. What is the purpose of ***wireframing***?
-    > creates a blueprint of an intial product concept, effectively mapping out a plan for the developers and other involved parties.
+    > creates a blueprint of an initial product concept, effectively mapping out a plan for the developers and other involved parties.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > absolutely. the effort you spend in conceptuallizing is well worth the time you potentially save later. nothing i hate more than doing lots of work only for someone to tell me i was working on something that didn't need doing/is wrong and now needs to be changed.
+    > absolutely. the effort you spend in conceptualizing is well worth the time you potentially save later. nothing i hate more than doing lots of work only for someone to tell me i was working on something that didn't need doing/is wrong and now needs to be changed.
 
 10. Define the display `:flex property:`
     > flex is the divine avenger that allows you to easily and intuitively arrange a given layout.

@@ -7,6 +7,6 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
     crocs have been up to some weird shenanigans.
 - What are you struggling with?
-    i am unconfident in my ability to navigate/utilize github at the moment. i know it's probably just a learning curve, but it's annonying me nonetheless.
+    i am not confident in my ability to navigate/utilize github at the moment. i know it's probably just a learning curve, but it's annoying me nonetheless.
 - What would you count as a victory?
-    i got to utilize a lot of the html & css i had previously self taught myself this summer while i was making the cool litle toad site. made me happy because i was nervous i'd accidentally braindumped everything. but no, looks like it kinda is like riding a bike :D
+    i got to utilize a lot of the html & css i had previously self taught myself this summer while i was making the cool little toad site. made me happy because i was nervous i'd accidentally brain-dumped everything. but no, looks like it kinda is like riding a bike :D
