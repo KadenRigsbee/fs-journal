@@ -28,13 +28,13 @@
     > users are more likely to have postive association with your project if the design is 'palatable'. in addition, you can subtly guide users to view certain things, or understand priciples of your project through use of color and weight.
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > creates a blueprint of an intial product concept, effectively mapping out a plan for the developers and other involved parties.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > absolutely. the effort you spend in conceptuallizing is well worth the time you potentially save later. nothing i hate more than doing lots of work only for someone to tell me i was working on something that didn't need doing/is wrong and now needs to be changed.
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > flex is the divine avenger that allows you to easily and intuitively arrange a given layout.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > height, width, padding, margin all mess with that box size
