@@ -1,27 +1,27 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > execution of one `asynchronous` task isn't dependent on another, whereas execution of each `synchronous` operation depends on completing the one before it
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > function that waits for a specific event to occur then executes its assigned response
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > Representational State Transfer. It's a software architectural style that provides standards between systems on the web. This makes communication between systems easier
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > function that is passed into another function as an argument
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > the representation of the eventual completion or failure of an asynchronous operation. catch()
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > GET, POST, PUT
 
 07. What does the `API` acronym stand for?
 
