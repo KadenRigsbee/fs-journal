@@ -25,20 +25,20 @@
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > Application Programming Interface
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > you utilize the `await` keyword before a call to a function that utilizes a promise. Basically you tell the code to wait until the promise has settled before firing off
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > you can utilize `encapsulation` to restrict direct access to the components of an object.
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > 200 OK
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > Bad Request (https://http.cat/status/400)
