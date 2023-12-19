@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+    I sometimes struggle to stay focused during lectures. I'm proud of the efforts I've made to reduce distraction and increase my attentiveness this week.
 - What did you learn that was a shock or surprise?
+
 - What are you struggling with?
+    Balancing my work load. I've already pulled way to many late nighters; ideally I should be pulling zero late night scrambles to complete assignments.
 - What would you count as a victory?
+    I get a really nice christmas break for surviving this week. absolute win.
