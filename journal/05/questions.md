@@ -31,7 +31,7 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > The `Continuous Integration` pipeline delivers information from the client while the `Continuous Delivery` pipeline returns it.
+  > The `request` pipeline delivers information from the client while the `response` pipeline returns it.
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
