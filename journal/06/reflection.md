@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+    requested tutoring and got some solid assistance. 
 - What did you learn that was a shock or surprise?
+    that it is not only okay to ask questions, it is actually encouraged.
 - What are you struggling with?
+    asking questions. Mick suggested whenever i run into a problem that i set a timer for 10 minutes. if the problem isn't solved when the timer goes off, seek out an advisor.
 - What would you count as a victory?
+    i've made friends and i've learned a lot despite vacation brain rot.
