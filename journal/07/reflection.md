@@ -3,6 +3,11 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+    This Journal was pretty easy to complete; took me less than 40 min
 - What did you learn that was a shock or surprise?
+    I remembered that this journal was due lol
 - What are you struggling with?
+    Time management
 - What would you count as a victory?
+    Not letting my current, adverse working environment sabotage me and putting in effort despite really wanting not to
+
