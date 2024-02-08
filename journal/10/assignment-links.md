@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/ItsBup/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/ItsBup/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/ItsBup/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/KadenRigsbee/ChoreScore)**
+* **[Repo](https://github.com/KadenRigsbee/gregsListSharp)**
+* **[Repo](https://github.com/KadenRigsbee/AllSpice)**
