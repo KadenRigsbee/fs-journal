@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+    I had a nice birthday
 - What did you learn that was a shock or surprise?
+    how behind I actually am
 - What are you struggling with?
+    crippling embarrassment
 - What would you count as a victory?
+    I get to go home and see my family next weekend
